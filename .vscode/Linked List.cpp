@@ -47,7 +47,7 @@ bool search(node* head, int key){
 
 int main() {
     node* head = nullptr;
-    insertAthead(head, 5);
+    insertAthead(head, 4);
     insertAthead(head, 3);
     insertAthead(head, 2);
     insertAthead(head, 1);
