@@ -1,6 +1,6 @@
 #include<iostream>
 #include<map>
-using namespace std;
+using namespace std;;
 int main(){
     map<int,int> m;
     m.insert({1,3});  //key->1 and value->2
